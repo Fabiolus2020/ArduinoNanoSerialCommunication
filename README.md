@@ -7,6 +7,8 @@ Items
 1 x LED
 1x resistor 1kOhms
 
+Youtube: https://youtu.be/mvllTxhGDZ0
+
 loop()
 https://www.arduino.cc/reference/en/language/structure/sketch/loop/
 
