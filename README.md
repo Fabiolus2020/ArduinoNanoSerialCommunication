@@ -1,5 +1,7 @@
 # ArduinoNanoSerialCommunication
 Arduino Nano and serial port communication learning functions
+//created by Fabiolus 2021/01/08
+//the_fabiolous@hotmail.com
 
 Project#3
 Items
